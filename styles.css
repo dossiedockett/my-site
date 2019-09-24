@@ -1,9 +1,8 @@
 #nav-img {
-    border-radius: 50%;
+    border-radius: 50%
 };
 
-#home-header {
-    padding: 10px;
-    color: #0975ce;
-    text-align: center;
+#title {
+    color: #c5ecfd;
+    text-align: center
 }
