@@ -1,8 +1,8 @@
 #nav-img {
     border-radius: 50%;
-};
+}
 
-h1.title {
-    color: #c5ecfd;
-    text-align: center;
+.title {
+    color: #c5ecfd !important;
+    text-align: center !important;
 }
