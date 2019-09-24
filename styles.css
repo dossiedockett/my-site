@@ -3,6 +3,12 @@
 }
 
 .title {
-    color: #c5ecfd !important;
-    text-align: center !important;
+    color: #0080ff;
+    text-align: center !important;#
+    padding: 100px;
+}
+
+.card-img-top {
+    width: 50%;
+    height: auto;
 }
